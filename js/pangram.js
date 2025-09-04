@@ -9,6 +9,5 @@ function isPangram(string) {
     }
         return true 
     }
-   
 }
-isPangram(`The quick brown fox jumped over the lay dog`);
+isPangram(`The quick brown fox jumped over the lazy dog`);
